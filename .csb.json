@@ -18,5 +18,8 @@
     "react-dom": "latest",
     "framer-motion": "10.11",
     "zustand": "^4.3.8"
-  }
+  },
+  "externalResources": [
+    "https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+  ]
 }
