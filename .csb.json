@@ -6,7 +6,7 @@
     "src/components/features/store.ts",
     "src/index.css"
   ],
-  "otherFiles": ["src/components/hero.tsx"],
+  "otherFiles": ["src/components/hero.tsx", "tailwind.config.js"],
   "activeFile": "src/App.tsx",
   "template": "vite-react-ts",
   "options": {
