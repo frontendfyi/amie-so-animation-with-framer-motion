@@ -16,6 +16,7 @@
     "classnames": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "framer-motion": "10.11"
+    "framer-motion": "10.11",
+    "zustand": "^4.3.8"
   }
 }
