@@ -1,0 +1,21 @@
+{
+  "openFiles": [
+    "src/App.tsx",
+    "src/components/features/card.tsx",
+    "src/components/features/title.ts",
+    "src/components/features/store.ts",
+    "src/index.css"
+  ],
+  "otherFiles": ["src/components/hero.tsx"],
+  "activeFile": "src/App.tsx",
+  "template": "vite-react-ts",
+  "options": {
+    "tailwind": true
+  },
+  "dependencies": {
+    "classnames": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "10.11"
+  }
+}
