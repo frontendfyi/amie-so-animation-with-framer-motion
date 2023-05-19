@@ -2,7 +2,7 @@
   "openFiles": [
     "src/App.tsx",
     "src/components/features/card.tsx",
-    "src/components/features/title.ts",
+    "src/components/features/title.tsx",
     "src/components/features/store.ts",
     "src/index.css"
   ],
