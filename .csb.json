@@ -6,7 +6,7 @@
     "src/components/features/visual.tsx",
     "src/components/features/store.ts",
     "src/utils/toggle-page-overflow.ts",
-    "src/utiles/use-escape-press.ts",
+    "src/utils/use-escape-press.ts",
     "src/index.css"
   ],
   "otherFiles": ["src/components/hero.tsx", "tailwind.config.js"],
