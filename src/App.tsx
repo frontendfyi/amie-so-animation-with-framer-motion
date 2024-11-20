@@ -117,7 +117,7 @@ function App() {
   }, [animate, fullscreenFeature, lastFullscreenFeature]);
 
   return (
-    <div className="mx-auto max-w-6xl px-4">
+    <div className="mx-auto max-w-6xl px-4 bg-white">
       <Hero />
       <div ref={scope}>
         {features.map((feature) => (
